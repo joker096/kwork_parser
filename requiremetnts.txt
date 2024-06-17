@@ -1,5 +1,0 @@
-aiohttp
-aiofiles
-pandas
-openpyxl
-python-dotenv
